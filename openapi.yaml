@@ -47,21 +47,6 @@ paths:
             application/json:
               schema:
                 $ref: './components/schemas.yaml#/components/schemas/UserResponse'
-              examples:
-                success:
-                  summary: 成功响应示例
-                  value:
-                    success: true
-                    data:
-                      id: "user12345"
-                      username: "john_doe"
-                      email: "john.doe@example.com"
-                      profile:
-                        firstName: "John"
-                        lastName: "Doe"
-                        avatar: "https://example.com/avatars/john.jpg"
-                      createdAt: "2024-01-15T10:30:00Z"
-                      updatedAt: "2024-01-20T14:45:00Z"
         '400':
           description: 请求参数错误
           content:
