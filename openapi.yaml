@@ -17,9 +17,9 @@ servers:
     description: 测试环境
 
 paths:
-  /users/{userId}:
+  /users111/{userId}:
     get:
-      summary: 获取用户信息
+      summary: 获取用户信息111
       description: 根据用户ID获取用户的详细信息
       operationId: getUserById
       tags:
