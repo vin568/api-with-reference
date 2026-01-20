@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: 示例API12
+  title: 示例API13
   description: 这是一个示例OpenAPI 3.1规范，展示如何使用外部组件
   version: 1.0.0
   contact:
