@@ -106,6 +106,6 @@ Hello World!
 
 ![Image](../assets/你好.png)
 
-![Image](../assets/images/你好.png)
+![Image](../assets/images/你 好.png)
 
-Test update 32
+Test update 33
