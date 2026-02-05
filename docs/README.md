@@ -104,4 +104,6 @@ Hello World!
 
 ![Image](../assets/226x140.jpg)
 
-Test update 25
+![Image](../assets/你好.png)
+
+Test update 26
